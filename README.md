@@ -24,9 +24,15 @@ Save.
 **2. Target Site Setup**
 
 Upload and activate the plugin as above.
+
 Go to Post Sync in admin menu.
+
 Select Target mode.
+
 Paste the key shared from the host site.
+
 Select the translation language (French, Spanish, Hindi).
+
 Paste your OpenAI ChatGPT API key for translation.
+
 Save.
