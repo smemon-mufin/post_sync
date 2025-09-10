@@ -9,11 +9,17 @@ Description: WordPress plugin to sync posts between sites in real-time, with opt
 **1. Host Site Setup**
 
 Upload the plugin to your WordPress site (/wp-content/plugins/).
+
 Activate the plugin via Plugins > Installed Plugins.
+
 Go to Post Sync in the WordPress admin menu.
+
 Select Host mode.
+
 Add Target URLs – keys are auto-generated per target.
+
 Save.
+
 
 **2. Target Site Setup**
 
